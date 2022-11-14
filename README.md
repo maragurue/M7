@@ -1,1 +1,1 @@
-# M7
+# Implementation of microplane material model M7
